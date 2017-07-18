@@ -1,0 +1,24 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheny111/cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheny111/cat/issues"
+  },
+  "homepage": "https://github.com/cheny111/cat#readme",
+  "dependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
